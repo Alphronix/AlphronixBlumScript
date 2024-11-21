@@ -1,4 +1,3 @@
-
 // ==UserScript==
 // @name Alphronix Blum Script
 // @version 1.0.1
