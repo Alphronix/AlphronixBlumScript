@@ -1,7 +1,7 @@
 
 // ==UserScript==
 // @name Alphronix Blum Script
-// @version 1.0.0
+// @version 1.0.1
 // @description Alphronix Blum Script is a dynamic, user-friendly script tailored for optimal performance and ease of use. Designed for seamless integration, it offers advanced features to simplify workflows, enhance efficiency, and deliver robust functionality. Whether you're managing complex tasks or automating routine operations, Alphronix Blum Script ensures reliability and precision. Perfect for professionals seeking innovation without compromise, this script combines cutting-edge technology with intuitive design, empowering users to achieve their goals effortlessly. Elevate your operations with Alphronix Blum Script—where performance meets simplicity.
 // @author https://t.me/Alphronix
 // @icon https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
@@ -9,7 +9,7 @@
 // @match https://telegram.blum.codes/*
 // ==/UserScript==
 
-const SCRIPT_VERSION = '1.0.0';
+const SCRIPT_VERSION = '1.0.1';
 const SCRIPT_URL = 'https://raw.githubusercontent.com/Alphronix/blum/main/testing.user.js';
 
 let GAME_SETTINGS = {
